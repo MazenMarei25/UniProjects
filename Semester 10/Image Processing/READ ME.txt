@@ -1,0 +1,15 @@
+This project aims to demonstrate mastery over use of image processing techniques and python's openCV and mediapipe pose estimation libraries
+to use a camera in an open-loop hardware project.
+
+The following google drive link contains demonstraion videos and project report for further detail.
+https://drive.google.com/drive/folders/1_oqN-eGaiISAu9aPDini_DVhGYKbTovP?usp=drive_link
+
+
+NOTES TO RUN THE CODE : 
+MUST RUN Detection_Pose FIRST then Angle_calc 
+
+Also change the comm port for the connected aruino to suit your usage or comment out any line 
+related to serial and arduino in calc angles 
+
+Use the appropriate cammera port in Detection_pose 
+
